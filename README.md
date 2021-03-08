@@ -1,6 +1,9 @@
  # <a href="https://www.linkedin.com/in/fabio-favaretto-17b4041a7/">Fabio  Favaretto</a>
+ <a href="#" alt="WhatsApp">
+ <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+
  
-## About Me
+## Sobre Min
 Tenho 22 anos e sou Tecnico em Desenvolvimento de sistemas, Formado Pela Unip 2020, Desenvolvedor ADVPL,TLPP++ e Javascript
 <br>
 Sou uma desenvolvedora web e mobile apaixonada também pelo mundo do design de interfaces.
