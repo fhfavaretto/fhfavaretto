@@ -1,28 +1,27 @@
- # <a href="https://www.linkedin.com/in/fabio-favaretto-17b4041a7/">Fabio  Favaretto</a>
- <a href="" alt="WhatsApp">
- <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=5517996645267&text&app_absent=0"/></a>
+# Hello, everyone! 👋
 
- 
-## Sobre Min
-Tenho 22 anos e sou Tecnico em Desenvolvimento de sistemas, Formado Pela Unip 2020, Desenvolvedor ADVPL,TLPP++ e Javascript
-<br>
-Sou uma desenvolvedora web e mobile apaixonada também pelo mundo do design de interfaces.
+My name is **Fabio Favaretto** and I write interesting & very useful articles on my [Dev.to](https://dev.to/fhfavaretto) blog and do a lot of non-profit and Open Source projects on GitHub for people and robots. I'm one of the fathers of Go web framework called [Fiber](https://github.com/gofiber/fiber) and a lot of things around him. I'm the author of official logos for Python web frameworks such as [Starlette](https://github.com/fhfavaretto/starlette-logo) and [Quart](https://github.com/fhfavaretto/quart-logo).
 
-## Technologies
-- Front - End com HTML, CSS, JS, ReactJS
-- Wordpress, bootstrap, Fluig style, material Design.
-- UI Design utilizando Figma/whiscal
-- Estudando angularJS e NodeJS nas horas vagas
+Also, I'm developing a very helpful tool (with advanced ecosystem) to automate the process of initial preparation and deployment of full cycle projects written in Go by running one CLI command, called [Create Go App](https://github.com/create-go-app/cli). _By the way, I'm looking for people to work with me on this project (authors of backend templates & Docker containers)_.
 
-**Languages and Tools:**  
+So, I'm **Golang** lover, **UX** evangelist, **DX** philosopher and **UI** Dreamer with over **12+ years** of experience... whatever that means! 😅
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+## My work
 
+All of this I do in my spare time from a main job, as a founder and Software Engineer at [True web artisans](https://1wa.co/). The main areas of my specialization are Go, modern JavaScript & CSS, Docker and automation. On a personal basis, I do commercial consulting about UX of a product, selecting the best growth strategy and building a positive customer journey.
 
-##  Contact Me
-- <a href="https://www.linkedin.com/in/fabio-favaretto-17b4041a7/">Linkedin</a>
-- <a href="mailto:favarettofabio@hotmail.com">E-mail</a>
-- <a href="https://instagram.com/the_favaretto">Instagram Pessoal</a>
-</div>
+## Statistics
+
+<a href="https://github.com/fhfavaretto"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhfavaretto&theme=default&hide=javascript,html,css,vue" /></a>&nbsp;<a href="https://github.com/fhfavaretto"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fhfavaretto&show_icons=true&theme=default&line_height=25" alt="fhfavaretto's github stats" /></a>
+
+## Awesome projects by me or with my active support
+
+<a href="https://github.com/gofiber/fiber"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gofiber&repo=fiber&theme=default&show_owner=true" /></a>&nbsp;<a href="https://github.com/create-go-app/cli"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=create-go-app&repo=cli&theme=default&show_owner=true" /></a>
+
+## Dev.to badges
+
+[![dev.to badges](https://user-images.githubusercontent.com/11155743/109646218-f7d9e680-7b68-11eb-9511-5efaff7cb9e5.jpg)](https://dev.to/fhfavaretto)
+
+## Thank you!
+
+If you want to give :octocat: GitHub star to any of my projects, **I would be very grateful**! 🥰
