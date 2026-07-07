@@ -74,7 +74,7 @@ Trabalho com customizações, automações e ferramentas que simplificam o dia a
 
 <div align="center">
 
-![Snake animation](https://github.com/fhfavaretto/fhfavaretto/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/fhfavaretto/fhfavaretto/output/github-contribution-grid-snake.svg)
 
 </div>
 
