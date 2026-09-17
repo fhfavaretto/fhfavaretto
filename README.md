@@ -28,34 +28,31 @@ Atuo na fronteira entre negócio e tecnologia: levanto processos, desenho escopo
 
 ---
 
-## Experiência
+## Segmentos que domino
 
-### Consultor Especialista TOTVS — Protheus
-**Dahuer** · Autônomo · *mar/2025 – fev/2026* · Remoto (Camboriú, SC)
+Atuação em ERP TOTVS Protheus e Fluig em operações de alto volume e criticidade — da ponta hospitalar à distribuição e indústria.
 
-Sustentação e evolução de integrações críticas e processamentos de grande volume entre sistemas, com foco em estabilidade, performance e confiabilidade. Participação em melhorias técnicas, otimização de rotinas e apoio à arquitetura de soluções. Implantação do Fluig e desenvolvimento de fluxos internos para automação de processos de negócio.
+| Segmento | Contexto | Referências |
+|----------|----------|-------------|
+| **Saúde & Hospitalar** | Compras, farmácia hospitalar, suprimentos, RH e PMS em rede com 90+ hospitais | Lar São Francisco |
+| **Distribuição Farmacêutica** | Protheus em escala nacional — financeiro, faturamento, logística e compras | Grupo Elfa |
+| **Distribuição Química** | Implantação e evolução de backoffice / cadeia de suprimentos | IMCD |
+| **Indústria & Manufatura** | PCP, produção, PMS e reestruturação de ERP em ambiente industrial | Glasstech · FIRJAN |
+| **Alimentos** | Implantação e parametrização Protheus com foco operacional | Dadinho |
+| **Cosméticos & Beleza** | Sustentação e evolução de processos de backoffice | Max Love |
+| **Integrações & Automação** | Fluig (BPM/ECM), integrações críticas e processamentos de grande volume | Dahuer · Bionexo · TOTVS Colaboração |
 
-### Arquiteto de Soluções TOTVS Protheus
-**Upduo — Consultoria TOTVS** · Autônomo · *abr/2021 – abr/2024* · Híbrido (São Paulo)
+<div align="center">
 
-Consultoria técnica/funcional em implantação, sustentação e evolução do Protheus (Backoffice, PCP e PMS). Levantamento de processos, parametrização de módulos (Financeiro, Compras, Estoque, Faturamento, Produção e PMS), desenvolvimento ADVPL, automações, integrações e upgrades. Projetos em clientes como **IMCD**, **Max Love**, **Glasstech** e **Dadinho**.
+![Saúde](https://img.shields.io/badge/Saúde_&_Hospitalar-0E7C66?style=for-the-badge)
+![Farma](https://img.shields.io/badge/Distribuição_Farmacêutica-1B4F72?style=for-the-badge)
+![Química](https://img.shields.io/badge/Distribuição_Química-5D6D7E?style=for-the-badge)
+![Indústria](https://img.shields.io/badge/Indústria_&_Manufatura-6C3483?style=for-the-badge)
+![Alimentos](https://img.shields.io/badge/Alimentos-B9770E?style=for-the-badge)
+![Cosméticos](https://img.shields.io/badge/Cosméticos_&_Beleza-922B21?style=for-the-badge)
+![Integrações](https://img.shields.io/badge/Integrações_&_Automação-1A5276?style=for-the-badge)
 
-### Tech Lead
-**Moove ERP** · Autônomo · *nov/2022 – dez/2023* · São Paulo
-
-Liderança técnica na reestruturação do Protheus na **FIRJAN**. Coordenação de equipe multidisciplinar, definição de arquitetura e boas práticas ADVPL, versionamento, mentoria, revisão de código e interface direta com o cliente.
-
-### Desenvolvedor Sênior | TOTVS Protheus
-**Grupo Elfa (Elfa Medicamentos)** · Autônomo · *fev/2022 – jul/2023* · Remoto
-
-Sustentação e evolução do Protheus em escala nacional na maior distribuidora de medicamentos da América Latina. Customizações ADVPL, suporte a Financeiro, Faturamento, Logística e Compras, otimização de rotinas de alto volume e integrações com sistemas externos.
-
-### Desenvolvedor/Analista Fluig e Protheus
-**Associação Lar São Francisco de Assis** · Tempo integral · *jan/2019 – dez/2021* · Jaci, SP
-
-Transformação digital do grupo responsável pela gestão de mais de **90 hospitais** no Brasil. Implantação e automação de compras hospitalares, fluxos Fluig (BPM/ECM), integrações Protheus/Fluig/Bionexo, TOTVS Colaboração (XML), PMS para licitações e verbas, e geração de folha para mais de **20 mil colaboradores**.
-
-**Módulos:** Compras · Estoque · Financeiro · Gestão de Pessoal · Folha · Ponto · SESMT · Manutenção de Ativos · PMS
+</div>
 
 ---
 
