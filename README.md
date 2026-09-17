@@ -32,15 +32,15 @@ Atuo na fronteira entre negócio e tecnologia: levanto processos, desenho escopo
 
 Atuação em ERP TOTVS Protheus e Fluig em operações de alto volume e criticidade — da ponta hospitalar à distribuição e indústria.
 
-| Segmento | Contexto | Referências |
-|----------|----------|-------------|
-| **Saúde & Hospitalar** | Compras, farmácia hospitalar, suprimentos, RH e PMS em rede com 90+ hospitais | Lar São Francisco |
-| **Distribuição Farmacêutica** | Protheus em escala nacional — financeiro, faturamento, logística e compras | Grupo Elfa |
-| **Distribuição Química** | Implantação e evolução de backoffice / cadeia de suprimentos | IMCD |
-| **Indústria & Manufatura** | PCP, produção, PMS e reestruturação de ERP em ambiente industrial | Glasstech · FIRJAN |
-| **Alimentos** | Implantação e parametrização Protheus com foco operacional | Dadinho |
-| **Cosméticos & Beleza** | Sustentação e evolução de processos de backoffice | Max Love |
-| **Integrações & Automação** | Fluig (BPM/ECM), integrações críticas e processamentos de grande volume | Dahuer · Bionexo · TOTVS Colaboração |
+| Segmento | Contexto |
+|----------|----------|
+| **Saúde & Hospitalar** | Compras, farmácia hospitalar, suprimentos, RH e PMS em rede com 90+ hospitais |
+| **Distribuição Farmacêutica** | Protheus em escala nacional — financeiro, faturamento, logística e compras |
+| **Distribuição Química** | Implantação e evolução de backoffice / cadeia de suprimentos |
+| **Indústria & Manufatura** | PCP, produção, PMS e reestruturação de ERP em ambiente industrial |
+| **Alimentos** | Implantação e parametrização Protheus com foco operacional |
+| **Cosméticos & Beleza** | Sustentação e evolução de processos de backoffice |
+| **Integrações & Automação** | Fluig (BPM/ECM), integrações críticas e processamentos de grande volume |
 
 <div align="center">
 
